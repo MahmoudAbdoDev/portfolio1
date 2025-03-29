@@ -9,3 +9,7 @@ Use _emphasis_ in comments to express **strong** opinions and point out ~~correc
 ```
 mahmoud abdo
 ```
+
+```suggestion
+  for i in range(A, B+100, C):
+```
